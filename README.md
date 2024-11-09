@@ -16,7 +16,6 @@ This course is designed around hands-on, bite-sized exercises inspired by "Atomi
 
 ---
 
-
 ## 🗂 Table of Contents
 
 - **📘 [ArewaDS Python for Beginners - Cohort 3.0](#-arewads-python-for-beginners---cohort-30)**
@@ -106,7 +105,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | Blogging using Medium         | [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd)    |        [Recording](https://youtu.be/Gt2D2eNWpxI)                                                           | Lukman                                              |
 | Basic Command Line Operations | [CommandLine](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/commandline.md)                                                                                   | [Recording1](https://youtu.be/VgiP2-pHF3Y?si=GGHw1JEuMmhVHaYU)\| [Recording2](https://www.youtube.com/watch?v=Nq-962yO_6s&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=4)                                      | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) \| Falalu |
 | Setup Git and GitHub          | [Git/GitHub](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/github.md)                                                                                   | [Recording1](https://www.youtube.com/watch?v=FN4J5wHK898&t=187s&ab_channel=ArewaDataScienceAcademy)  \| [Recording2](https://youtu.be/LfPFdQ4DinM)                                                                | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) \| Falalu |
-| Python Virtual Environments   | [Virtual Environment](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/python-venv.md)                                                                          | [Recording](https://youtu.be/iszkG8QSPng?si=iQMsqoaxHiafgHiA)                                       | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
+| Python Virtual Environments   | [Virtual Environment](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/python-venv.`md)                                                                          | [Recording](https://youtu.be/iszkG8QSPng?si=iQMsqoaxHiafgHiA)                                       | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
 | VSCode for Data Science       | [VSCode for DS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/vscode.md)                                                                                | [Recording](https://www.youtube.com/watch?v=pmUkRRqtpEY)                                            | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
 | Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/markdown.md)                                                                                     | [Recording](https://www.youtube.com/watch?v=oNwEag0eqwE)                                            | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
 | Customizing GitHub Profile    | [Customizing Profile](https://docs.google.com/presentation/d/1-CtWlgh7c1j5cBVKZiFlaMCYP3O_KcqwYDm6dbkiFdc/edit#slide=id.p)                                                                                                      | [Recording](https://www.youtube.com/watch?v=oXEUbZ9m3SE)                                           | [Lukman]()                                           |
@@ -119,20 +118,9 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | Assignment Name                          | Link to Assignment                                                   |
 | ---------------------------------------- | --------------------------------------------------------------------- |
 | Getting Started with Medium                  | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)                           |
-| GitHub Fundamentals                      | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md)                           |
+| GitHub Fundamentals                      | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md)  
+| GitHub Profile                    | [Customize your Proile](#) |
 
-
-<!-- 
-| Title                         | Resource                                                                                           | Recording                                                                                            | Mentor                                             |
-| ----------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| Initial Setup                 | [MacOS](#) \| [Windows](#) \| [Linux](#)                                                           | [Tutorial](https://www.youtube.com/watch?v=bRW5r7TK6KM)                                             | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
-| Basic Command Line Operations | [CommandLine](#)                                                                                   | [Recording](https://youtu.be/VgiP2-pHF3Y?si=GGHw1JEuMmhVHaYU)                                       | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
-| Setup Git and GitHub          | [Git/GitHub](#)                                                                                   | [Recording1](#) \| [Recording2](#)                                                                  | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
-| Python Virtual Environments   | [Virtual Environment](#)                                                                          | [Recording](https://youtu.be/iszkG8QSPng?si=iQMsqoaxHiafgHiA)                                       | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
-| VSCode for Data Science       | [VSCode for DS](#)                                                                                | [Recording](https://www.youtube.com/watch?v=pmUkRRqtpEY)                                            | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
-| Introduction to Markdown      | [Markdown](#)                                                                                     | [Recording](https://www.youtube.com/watch?v=oNwEag0eqwE)                                            | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
-| Customizing GitHub Profile    | [Customizing Profile](https://docs.google.com/presentation/d/1-CtWlgh7c1j5cBVKZiFlaMCYP3O_KcqwYDm6dbkiFdc/edit#slide=id.p)                                                                                                      | [Recording](https://www.youtube.com/watch?v=oXEUbZ9m3SE)                                           | [Lukman]()                                           |
-| Google Colab                  | [Google Colab](#)                                                                                 | [Recording](https://youtu.be/3P5PgSzHPmI?si=G5PJlkd0CrlVfLiN)                                      | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) | -->
 
 ---
 
